@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/dylan-wright/issue-generator/issues"
   },
-  "homepage": "https://github.com/dylan-wright/issue-generator#readme"
+  "homepage": "https://github.com/dylan-wright/issue-generator#readme",
+  "dependencies": {
+    "figlet": "^1.2.0",
+    "image-to-ascii": "^3.0.5",
+    "q": "^1.4.1"
+  }
 }
