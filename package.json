@@ -1,0 +1,19 @@
+{
+  "name": "issue-generator",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylan-wright/issue-generator.git"
+  },
+  "author": "dylan-wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylan-wright/issue-generator/issues"
+  },
+  "homepage": "https://github.com/dylan-wright/issue-generator#readme"
+}
